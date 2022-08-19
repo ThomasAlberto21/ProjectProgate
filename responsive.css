@@ -160,6 +160,10 @@
     justify-content: center;
     align-items: center;
   }
+  
+   .featured-list-card {
+    margin: 0 10px;
+  }
 
   .new-arrival {
     margin-top: 20%;
